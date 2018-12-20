@@ -21,5 +21,5 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 666666666666
 
-# 用http协议进行了文件进行了修改了，查看效果，
-# 用http协议进行了文件进行了修改了，查看效果，看不是最新版的代码，是否可以提交到远程库
+## 用http协议进行了文件进行了修改了，查看效果，
+## 用http协议进行了文件进行了修改了，查看效果，看不是最新版的代码，是否可以提交到远程库
