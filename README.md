@@ -24,3 +24,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 用http协议进行了文件进行了修改了，查看效果
 ## 用http协议进行了文件进行了修改了，查看效果，看不是最新版的代码，是否可以提交到远程库
 ## 用ssh协议进行了文件进行了修改了，查看效果
+## 远程库选择的是ssh协议，但是用户提交代码使用http协议提交的，是否能提交呢？显示就可以提交
