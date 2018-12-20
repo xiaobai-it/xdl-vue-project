@@ -1,0 +1,6 @@
+export const HANDLERUSERINFO = 'handleruserinfo'
+export const GETITEMDATA = 'getitemdata'
+export const CLICKPAGINATE = 'clickpaginate'
+export const GETTABDATA = 'gettabdata'
+export const HANDLERLISTPAGESHOW = 'handlerlistpageshow'
+export const GOTOBACKLISTPAGE = 'gotobacklistpage'
